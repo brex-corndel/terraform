@@ -1,0 +1,3 @@
+compartment_ocid	ocid1.tenancy.oc1..aaaaaaaaabeclzoshd6jv4duinduq666wyb2ajrsxjtinz6klf2nxxmfm53a	compartment_ocid
+region	uk-london-1	region
+tenancy_ocid	ocid1.tenancy.oc1..aaaaaaaaabeclzoshd6jv4duinduq666wyb2ajrsxjtinz6klf2nxxmfm53a
