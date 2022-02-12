@@ -1,4 +1,4 @@
-Simple example of settimg up a Container Instance in OCI usimg Terraform
+Simple example of settimg up a Container Instance in OCI using Terraform. Scripts are running from Cloud shell in the tenancy.
 
 Note : In order to run these scripts you need the fingerprint configured.
 
