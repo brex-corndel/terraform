@@ -10,6 +10,8 @@ terraform apply
 
 terraform destroy
 
+terraform output
+
 Scripts are available from Terraform Registry : https://registry.terraform.io/
 
 Training Reference : https://docs.oracle.com/en-us/iaas/developer-tutorials/tutorials/tf-provider/01-summary.htm
